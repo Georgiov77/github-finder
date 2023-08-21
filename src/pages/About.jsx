@@ -6,6 +6,9 @@ function About() {
         A React app to search GitHub profiles and see profile details. This
         project is part of the React Front To Back Udemy course.
       </p>
+       <p className="text-lg text-gray-400">
+        Author <span className="text-white">George Vlachos</span>
+      </p>
       <p className="text-lg text-gray-400">
         Version <span className="text-white">1.0.0</span>
       </p>
